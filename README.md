@@ -1,4 +1,4 @@
-# project-accesibility
+# project-accessibility
 
 We had to make one of our projects accessible, following the accessibility guidelines, getting an score of at least 95 in Lighthouse, semantic HTML elements, images with alt attributes and proper size, clean code and correct contrast and make it responsive
 
@@ -8,4 +8,4 @@ I used my past projects to get some code and styling, If I had more time, I woul
 
 
 View it live
-file:///Users/estefanny/Documents/technigo-projects/project-w8/project-accesibility/index.html
+https://project-accessibility.netlify.app/
