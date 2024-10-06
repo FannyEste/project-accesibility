@@ -7,7 +7,7 @@
   
   body {
     height: 100vh;
-    background-image: url(images/cover.jpeg);
+    background-image: url(images/cover-01.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -141,6 +141,7 @@
     .navbar .action_btn {
       display: none; 
     }   
+  } 
 
     .navbar .toggle_btn {
         display: block;
@@ -151,10 +152,11 @@
     }
 
  @media (max-width: 576px) {
-    .dropdown_menu{
+    .dropdown_menu {
         left: 2rem;
         width: unset;
     }
+  }  
 
  @media (max-width: 768px) {
         .action_btn {
@@ -164,6 +166,4 @@
             max-width: none;
     }  
     
- }   
-
-}
+ } 
